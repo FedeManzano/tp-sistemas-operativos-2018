@@ -1,0 +1,24 @@
+32595830,Sistemas Operativos,parcial1,4
+33222555,Analisis Matematico,parcial1,8
+32595830,Sistemas Operativos,parcial2,8
+25444555,Matematica Discreta,Recuperatorio,7
+32595830,Analisis Matematico,parcial2,7
+32595830,Fisica,parcial1,9
+32595830,Fisica,parcial1,8
+25444666,Fisica Cuantica Teorica,parcial1,9
+25666444,Analisis Matematico,parcial2,10
+25111555,Fisica Cuantica Teorica,parcial2,8
+32595830,Matematica,fisica,10
+32595830,Matematica,parcial2,8
+32595830,Matematica,parcial2,8
+32595830,Sistemas Operativos Avanzados,parcial2,8
+32595830,Matematica,Parcial2,8
+32595830,Matematica,parcial1,10
+32595830,Matematica,parcial1,8
+32595830,Sistemas Operativos,parcial1,10
+32595830,Mate2,Parcial1,10
+32595830,Mate2,Parcial2,10
+32595830,Mate2,pacial2,10
+32595830,Mate2,Parcial2,10
+32595830,Mate2,Parcial3,10
+32595830,Mate2,Recuperatorio,10
